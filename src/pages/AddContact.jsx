@@ -8,7 +8,6 @@ export default function AddContact() {
   const navigate = useNavigate();
   const location = useLocation();
 
-  // Si venimos a editar, recibimos el contacto por state
   const editing = location.state?.editing || null;
 
   const handleSubmit = (contact) => {
