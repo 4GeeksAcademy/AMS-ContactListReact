@@ -6,14 +6,14 @@ const initialState = {
       id: 1,
       full_name: "Juan Pérez",
       email: "juan.perez@email.com",
-      phone: "555-1234",
+      phone: "5551234",
       address: "Calle Falsa 123"
     },
     {
       id: 2,
       full_name: "María García",
       email: "maria.garcia@email.com",
-      phone: "555-5678",
+      phone: "5555678",
       address: "Avenida Siempre Viva 742"
     }
   ],
